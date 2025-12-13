@@ -11,3 +11,7 @@ Big areas of focus:
 * age at death
 
 the data involved showed a highest rate of connection with age to infarctions. infarctions are a good source of data in this case to relate to alzheimers as infarctions show the state of brain health and decay
+
+
+video on the code itself:
+https://youtu.be/zPXLXA1Efig
